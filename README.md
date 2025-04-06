@@ -27,7 +27,7 @@ This repository contains my solutions for the Quantum Computing Assignment, impl
 - Answered three questions on superposition, interference, and measurement in quantum computing, explaining their roles in quantum algorithms.
 
 ## How It Was Done
-- The code follows the training format using Qiskit and `SamplerV2` for simulations.
+- The code follows a format using Qiskit and `SamplerV2` for simulations.
 - Each task includes a quantum circuit, simulation with 128 shots, and a histogram of results.
 - The notebook was created in Google Colab, run to generate outputs, and uploaded here.
 
